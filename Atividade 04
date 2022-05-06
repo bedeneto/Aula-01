@@ -1,0 +1,10 @@
+Liste 3 valores para cada tipo de variável:
+  1) Inteiro
+    R_ 1, 2, 3;
+      i.e: Quantidade de objetos/coisas;
+  2) String
+    R_ "Bedê Neto", "Casa", "GitHub";
+      i.e: Nomes próprios, substantivos, frases, palavras soltas;
+  3) Float
+    R_ 1.77, 2.10, 3.14;
+      i.e: Altura de uma pessoa, altura de uma mesa, largura de uma porta, distância entre A e B;
