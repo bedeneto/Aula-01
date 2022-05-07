@@ -1,0 +1,4 @@
+nome = input("Qual seu nome? ")
+sobrenome = input("E qual seu sobrenome? ")
+
+print(nome, sobrenome)
