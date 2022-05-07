@@ -1,0 +1,19 @@
+n1 = float(input("Digite um número: "))
+n2 = float(input("Digite outro número: "))
+
+print("Essa é a soma dos dois valores: ", (n1+n2))
+print("Essa é a subtração dos dois valores: ", (n1-n2))
+print("Esse é o produto entre os dois valores: ", (n1*n2))
+print("E essa é a razão entre os dois valores: ", (n1/n2))
+
+# ou ->
+
+soma = float(n1+n2)
+sub = float(n1-n2)
+multi = float(n1*n2)
+divi = float(n1/n2)
+
+print("Essa é a soma dos dois valores: ", soma)
+print("Essa é a subtração dos dois valores: ", sub)
+print("Esse é o produto entre os dois valores: ", multi)
+print("E essa é a razão entre os dois valores: ", divi)
