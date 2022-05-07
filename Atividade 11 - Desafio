@@ -1,0 +1,15 @@
+#DESAFIO
+#Utilizando os conchecimentos da aula de hoje chegue no resultado
+#677.116.960-00
+
+p1 = 677
+p2 = 116
+p3 = 960
+p4 = 00
+
+print(p1,p2,p3, sep=".", end="-")
+print(p4)
+
+#Como fazer em uma linha?
+
+Desafio extra no slide
