@@ -1,0 +1,15 @@
+n1 = int(input("Digite um número inteiro e positivo: "))
+n2 = int(input("Digite outro número inteiro e positivo : "))
+
+soma = int(n1+n2)
+multi = int(n1*n2)
+media = float((n1+n2/2))
+n1aon2 = int(n1**n2)
+cubon2 = int(n2**3)
+
+
+print("A soma entre os dois números é: ", soma)
+print("O produto entre os dois números é: ", multi)
+print("A média entre os dois números é: ",media)
+print("O primeiro número elevado ao segundo número é: ", n1aon2)
+print("O segundo número elevado ao cubo é: ",cubon2)
